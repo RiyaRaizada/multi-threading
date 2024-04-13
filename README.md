@@ -15,5 +15,11 @@ Iterates over a range of thread counts, records execution time, and plots a grap
 Measures CPU usage for each thread count.
 
 RESULT:
+
+
+
+
+
+
 ![image](https://github.com/RiyaRaizada/multi-threading/assets/88757064/1266569f-2d39-4412-b4f4-ac2f993c3849)
 
