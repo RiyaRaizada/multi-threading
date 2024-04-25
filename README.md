@@ -19,8 +19,7 @@ RESULT:
 
 
 
-
-![image](https://github.com/RiyaRaizada/multi-threading/assets/88757064/f19e8321-c862-4305-8a67-3a9d93a1ca48)
+![image](https://github.com/RiyaRaizada/multi-threading/assets/88757064/c3d7e74e-db9a-4cea-b74f-57ded00e4d78)
 
 ![image](https://github.com/RiyaRaizada/multi-threading/assets/88757064/1266569f-2d39-4412-b4f4-ac2f993c3849)
 
